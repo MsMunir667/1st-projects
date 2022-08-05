@@ -1,0 +1,24 @@
+body,
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+.banneer{
+    background-image: url(/image/banner.jpg);
+    width: 100%;
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+}
+
+.line-dec{
+    width: 35px;
+    height: 5px;
+    background-color: white;
+    
+}
+
+.right{
+    margin-left: auto;
+}
+
